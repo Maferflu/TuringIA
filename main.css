@@ -6,6 +6,7 @@ body
 a, h1, h2, h3, h4, p, li
 {
   color: white;
+  font-family: monospace, verdana;
 }
 
 .header 
@@ -51,7 +52,7 @@ a, h1, h2, h3, h4, p, li
 
 .text-left
 {
-    text-align: left;
+    text-align: right;
 }
 
 .dropdown 
