@@ -110,10 +110,10 @@ button:hover
   transition: all 0.5s ease;
 }
 
-footer> .container 
+.footer > .container 
 {
   display: grid;
   width: 100%;
-  grid-template-columns: 30% 50%;
+  grid-template-columns: auto auto auto auto;
   justify-content: space-around;
 }
