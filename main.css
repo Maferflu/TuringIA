@@ -1,6 +1,11 @@
 body 
 {
-  background-color: blue;
+  background-color: white;
+}
+
+a, h1, h2, h3, h4, p, li
+{
+  color: white;
 }
 
 .header 
@@ -106,7 +111,7 @@ button:hover
   z-index: 999;
   width: 100%;
   height: auto;
-  background-color: white;
+  background-color: blue;
   transition: all 0.5s ease;
 }
 
